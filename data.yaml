@@ -1,0 +1,6 @@
+path: /path/to/cheating_dataset  # change this to your actual dataset path
+train: images/train
+val: images/val
+
+nc: 3  # number of classes (e.g., mobile, face, book)
+names: ['mobile', 'person', 'book', 'remote','laptop']  # class names
